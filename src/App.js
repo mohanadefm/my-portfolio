@@ -20,3 +20,5 @@ export default function App() {
     </main>
   );
 }
+
+//https://www.freecodecamp.org/news/build-portfolio-website-react/

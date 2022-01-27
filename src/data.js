@@ -1,46 +1,46 @@
 export const projects = [
   {
-    title: "React Reserve",
+    title: "Evana e-Commerce Store",
     subtitle: "MERN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "A fully functional e-commerce app. You can sign-up and login, completely CRUD operations on the products, add and modify products to the shopping cart, also conduct a fully automated payment using PayPal.",
+    image: "./project-1.png",
+    link: "https://evana-store.herokuapp.com/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Mohanad Blog",
+    subtitle: "MERN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "This is the first website I built. It is a personal blog, You can sign-up then write your posts and modify them as you want or you can delete them.",
+    image: "./project-2.png",
+    link: "https://mohanad-blog.herokuapp.com/",
   },
   {
     title: "DevChat",
-    subtitle: "React and Firebase",
+    subtitle: "JavaScript and HTML",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "In RoboFriends I use JSON to fetch data and display it. I used javascript and HTML and CSS.",
+    image: "./project-3.png",
+    link: "https://mohanadefm.github.io/robofriends/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Todo App",
+    subtitle: "React",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "Todo List app built by react and use local storage to save todos in browser.",
+    image: "./project-4.png",
+    link: "https://methtodo.netlify.app/",
   },
 ];
 
 export const skills = [
+  "HTML5",
+  "CSS3",
   "JavaScript",
   "React",
   "Node.js",
   "Express.js",
   "MongoDB",
-  "HTML + CSS",
-  "Bootstrap",
   "Git",
-  "Bash",
+  "Bootstrap",
 ];

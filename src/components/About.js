@@ -39,6 +39,7 @@ export default function About() {
                 where I could continue to grow my skill set and build exciting
                 software.
               </p>
+
               <br />
               <div className="inline-flex items-center">
                 <div className="flex justify-center">
